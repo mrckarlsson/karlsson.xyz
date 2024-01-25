@@ -1,4 +1,4 @@
-baseURL = 'karlssonxyz.netlify.app'
+baseURL = 'https://karlssonxyz.netlify.app/'
 languageCode = 'en-us'
 title = 'Christian Karlsson'
 theme = 'minimal-theme'
