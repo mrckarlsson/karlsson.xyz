@@ -1,6 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Christian Karlsson'
+theme = 'minimal-themes'
 
 [module]
   [module.hugoVersion]
