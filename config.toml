@@ -1,7 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Christian Karlsson'
-theme = 'minimal-theme'
 
 [[menus.main]]
 name = 'Hem'
