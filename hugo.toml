@@ -21,4 +21,4 @@ weight = 30
 [[menus.main]]
 name = 'Om'
 pageRef = 'about'
-weight = 30
+weight = 40
