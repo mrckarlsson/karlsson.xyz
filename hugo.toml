@@ -16,6 +16,11 @@ pageRef = '/'
 weight = 20
 
 [[menus.main]]
-name = 'Följ'
+name = 'Om'
 pageRef = 'a/'
 weight = 30
+
+[[menus.main]]
+name = 'Följ'
+pageRef = 'a/'
+weight = 40
