@@ -1,4 +1,4 @@
 baseURL = 'https://karlsson.xyz/'
 languageCode = 'en-us'
 title = 'Christian Karlsson'
-theme = "hugo-coder"
+theme = "hugo-theme-fred"
