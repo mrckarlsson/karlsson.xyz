@@ -1,5 +1,7 @@
 baseURL = 'https://karlsson.xyz/'
-languageCode = 'en-us'
+languageCode = 'sv_SE'
+defaultContentLanguage = "sv"
+defaultContentLang = "sv"
 title = 'Christian Karlsson'
 theme = "hugo-theme-fred"
 
