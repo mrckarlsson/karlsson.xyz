@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2024-06-13T03:07:09Z
+date = 2024-06-13
 title = "My first Post"
 description = ""
 slug = ""
