@@ -17,3 +17,8 @@ weight = 20
 name = 'Tags'
 pageRef = '/tags'
 weight = 30
+
+[[menus.main]]
+name = 'Om'
+pageRef = 'about'
+weight = 30
