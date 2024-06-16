@@ -6,21 +6,16 @@ title = 'Christian Karlsson'
 theme = "hugo-theme-fred"
 
 [[menus.main]]
-name = 'Hem'
+name = 'Kategorier'
 pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Artiklar'
-pageRef = '/posts'
+name = 'Arkiv'
+pageRef = '/'
 weight = 20
 
 [[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
+name = 'Följ'
+pageRef = 'a/'
 weight = 30
-
-[[menus.main]]
-name = 'Om'
-pageRef = 'about'
-weight = 40
