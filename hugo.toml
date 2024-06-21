@@ -3,5 +3,5 @@ languageCode = 'sv_SE'
 defaultContentLanguage = "sv"
 defaultContentLang = "sv"
 title = 'Christian Karlsson'
-theme = "Anatole"
+theme = "anatole"
 
