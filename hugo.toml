@@ -19,6 +19,18 @@ rel = "me"
 title = "mastodon"
 url = "https://social.karlsson.xyz/@christian"
 
+[[params.socialIcons]]
+icon = "fab threads"
+rel = "me"
+title = "threads"
+url = "https://threads.net/@mrckarlsson"
+
+[[params.socialIcons]]
+icon = "fab instagram"
+rel = "me"
+title = "instagram"
+url = "https://instagram.com/mrckarlsson"
+
 [menu]
 
   [[menu.main]]
