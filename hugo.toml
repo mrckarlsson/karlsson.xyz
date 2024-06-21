@@ -3,24 +3,5 @@ languageCode = 'sv_SE'
 defaultContentLanguage = "sv"
 defaultContentLang = "sv"
 title = 'Christian Karlsson'
-theme = "hugo-theme-fred"
+theme = "Anatole"
 
-[[menus.main]]
-name = 'Kategorier'
-pageRef = '/'
-weight = 10
-
-[[menus.main]]
-name = 'Arkiv'
-pageRef = '/'
-weight = 20
-
-[[menus.main]]
-name = 'Om'
-pageRef = 'a/'
-weight = 30
-
-[[menus.main]]
-name = 'Följ'
-pageRef = 'a/'
-weight = 40
