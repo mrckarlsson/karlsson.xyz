@@ -38,13 +38,13 @@ url = "https://instagram.com/mrckarlsson"
   url = "/"
 
   [[menu.main]]
-  name = "Blog"
+  name = "Kategori"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "category"
+  url = "/kategori/"
 
   [[menu.main]]
-  name = "Om"
+  name = "Följ"
   weight = 300
-  identifier = "about"
-  url = "/about/"
+  identifier = "follow"
+  url = "/folj/"
