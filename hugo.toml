@@ -12,3 +12,22 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:christian@karlsson.xyz"
 
+[menu]
+
+  [[menu.main]]
+  name = "Hem"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "Om"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
