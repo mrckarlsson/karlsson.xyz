@@ -6,11 +6,18 @@ title = 'Christian Karlsson'
 theme = "anatole"
 author = "Christian Karlsson"
 description = ""
+copyright = "2023-{{ YEAR }}"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:christian@karlsson.xyz"
+
+[[params.socialIcons]]
+icon = "fas fa-mastodon"
+rel = "me"
+title = "mastodon"
+url = "@christian@social.karlsson.xyz"
 
 [menu]
 
