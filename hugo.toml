@@ -8,10 +8,7 @@ author = "Christian Karlsson"
 description = ""
 copyright = "2023-{{ YEAR }}"
 
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:christian@karlsson.xyz"
+
 
 [[params.socialIcons]]
 icon = "fab fa-mastodon"
@@ -20,14 +17,19 @@ title = "mastodon"
 url = "https://social.karlsson.xyz/@christian"
 
 [[params.socialIcons]]
-icon = "fab threads"
-title = "threads"
-url = "https://threads.net/@mrckarlsson"
-
-[[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
 url = "https://instagram.com/mrckarlsson"
+
+[[params.socialIcons]]
+icon = "fas fa-rss"
+title = "rss"
+url = ""
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:christian@karlsson.xyz"
 
 [menu]
 
