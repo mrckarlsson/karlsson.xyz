@@ -14,7 +14,7 @@ title = "e-mail"
 url = "mailto:christian@karlsson.xyz"
 
 [[params.socialIcons]]
-icon = "fas fa-mastodon"
+icon = "fa-mastodon"
 rel = "me"
 title = "mastodon"
 url = "@christian@social.karlsson.xyz"
