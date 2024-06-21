@@ -4,4 +4,11 @@ defaultContentLanguage = "sv"
 defaultContentLang = "sv"
 title = 'Christian Karlsson'
 theme = "anatole"
+author = "Christian Karlsson"
+description = ""
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:christian@karlsson.xyz"
 
