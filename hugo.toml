@@ -20,7 +20,7 @@ title = "mastodon"
 url = "https://social.karlsson.xyz/@christian"
 
 [[params.socialIcons]]
-icon = "fab fa-threads"
+icon = "fab threads"
 title = "threads"
 url = "https://threads.net/@mrckarlsson"
 
