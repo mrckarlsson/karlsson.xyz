@@ -17,7 +17,7 @@ url = "mailto:christian@karlsson.xyz"
 icon = "fa-mastodon"
 rel = "me"
 title = "mastodon"
-url = "@christian@social.karlsson.xyz"
+url = "https://social.karlsson.xyz/@christian"
 
 [menu]
 
