@@ -12,7 +12,6 @@ copyright = "2023-{{ YEAR }}"
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
 # theme as git submodule
-theme = "anatole"
 
 summarylength = 10
 enableEmoji = true
