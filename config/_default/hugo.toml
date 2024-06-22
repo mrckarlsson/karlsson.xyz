@@ -1,6 +1,6 @@
 baseURL = 'https://karlsson.xyz/'
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "sv"
+DefaultContentLanguage = "sv"
 title = 'Christian Karlsson'
 
 # theme as hugo module

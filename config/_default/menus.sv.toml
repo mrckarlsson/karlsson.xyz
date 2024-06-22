@@ -1,5 +1,5 @@
   [[main]]
-  name = "Home"
+  name = "Hem"
   identifier = "home"
   weight = 100
   url = "/"
@@ -9,12 +9,6 @@
   weight = 200
   identifier = "posts"
   url = "/post/"
-
-  [[main]]
-  name = "Portfolio"
-  weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
 
   [[main]]
   name = "About"
