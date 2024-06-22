@@ -1,12 +1,10 @@
 baseURL = 'https://karlsson.xyz/'
-languageCode = 'sv_SE'
-defaultContentLanguage = "sv"
-defaultContentLang = "sv"
+languageCode = "en"
+DefaultContentLanguage = "en"
 title = 'Christian Karlsson'
 theme = "anatole"
 author = "Christian Karlsson"
 description = ""
-copyright = "2023-{{ YEAR }}"
 
 
 # theme as hugo module
