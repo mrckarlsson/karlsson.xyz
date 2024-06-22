@@ -43,7 +43,7 @@ url = "mailto:christian@karlsson.xyz"
   name = "Kategorier"
   weight = 200
   identifier = "category"
-  url = "/kategori/"
+  url = "/category/"
 
   [[menu.main]]
   name = "Arkiv"
