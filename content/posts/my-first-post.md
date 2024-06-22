@@ -6,7 +6,7 @@ description = ""
 slug = ""
 authors = []
 tags = []
-categories = [Ttest]
+categories = ["Test1", "Test2"]
 externalLink = ""
 series = []
 +++
