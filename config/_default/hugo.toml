@@ -37,7 +37,7 @@ localizedDates = false
     tag = "tags"
 
 [related]
-  includeNewer = fals
+  includeNewer = false
   threshold = 80
   toLower = true
 [[related.indices]]
