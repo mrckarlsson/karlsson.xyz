@@ -1,0 +1,12 @@
+[sv_SE]
+title = "Christian Karlsson"
+weight = 1
+LanguageName = "SV"
+contentDir = "content/"
+
+[en]
+title = "Christian Karlsson"
+weight = 2
+LanguageName = "EN"
+contentDir = "content/en"
+
