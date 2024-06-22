@@ -9,56 +9,46 @@ description = ""
 copyright = "2023-{{ YEAR }}"
 
 
+ theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
 
-[[params.socialIcons]]
-icon = "fab fa-mastodon"
-rel = "me"
-title = "mastodon"
-url = "https://social.karlsson.xyz/@christian"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
 
-[[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://instagram.com/mrckarlsson"
+# Enable Disqus
+#disqusShortname = ""
 
-[[params.socialIcons]]
-icon = "fas fa-rss"
-title = "rss"
-url = ""
+# Google Analytics
+#googleAnalytics = "UA-123-45"
 
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:christian@karlsson.xyz"
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
-[menu]
+# Localized dates requires Hugo version 0.87.0
+localizedDates = false
 
-  [[menu.main]]
-  name = "Hem"
-  identifier = "home"
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
   weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Kategorier"
-  weight = 200
-  identifier = "category"
-  url = "/categories/"
-
-  [[menu.main]]
-  name = "Arkiv"
-  weight = 300
-  identifier = "arkiv"
-  url = "/arkiv/"
-
-  [[menu.main]]
-  name = "Följ"
-  weight = 400
-  identifier = "follow"
-  url = "/folj/"
-
-    [[menu.main]]
-  name = "Om"
-  weight = 500
-  identifier = "om"
-  url = "/om/"
+[[related.indices]]
+  name = 'tags'
+  weight = 80
