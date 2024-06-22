@@ -2,7 +2,7 @@
 title = "Christian Karlsson"
 weight = 1
 LanguageName = "SV"
-contentDir = "content/"
+contentDir = "content/sv"
 
 [en]
 title = "Christian Karlsson"
