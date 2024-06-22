@@ -40,13 +40,25 @@ url = "mailto:christian@karlsson.xyz"
   url = "/"
 
   [[menu.main]]
-  name = "Kategori"
+  name = "Kategorier"
   weight = 200
   identifier = "category"
   url = "/kategori/"
 
   [[menu.main]]
-  name = "Följ"
+  name = "Arkiv"
   weight = 300
+  identifier = "arkiv"
+  url = "/arkiv/"
+
+  [[menu.main]]
+  name = "Följ"
+  weight = 400
   identifier = "follow"
   url = "/folj/"
+
+    [[menu.main]]
+  name = "Om"
+  weight = 500
+  identifier = "om"
+  url = "/om/"
