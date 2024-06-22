@@ -1,11 +1,11 @@
 [sv]
-title = "Christian Karlsson"
+title = "karlsson.xyz"
 weight = 1
 LanguageName = "SV"
 contentDir = "content/sv"
 
 [en]
-title = "Christian Karlsson"
+title = "karlsson.xyz"
 weight = 2
 LanguageName = "EN"
 contentDir = "content/en"
