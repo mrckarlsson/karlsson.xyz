@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2024-06-13
-title = "My first Post"
+title = "Hej Världen"
 description = "Test"
 slug = ""
 authors = ["Christian Karlsson"]
@@ -11,4 +11,4 @@ externalLink = ""
 series = []
 +++
 
-My first post
+Mitt första inlägg
