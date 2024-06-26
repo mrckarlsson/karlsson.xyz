@@ -13,40 +13,40 @@ one = "Warning: This post is over {{ .Count }} day old. The information may be o
 other = "Warning: This post is over {{ .Count }} days old. The information may be out of date."
 
 [page_not_found]
-other = "Page Not Found"
+other = "Sidan finns inte"
 
 [page_does_not_exist]
-other = "Ojdå artikeln du vill läsa finns visst inste"
+other = "Hoppsan artikeln du vill läsa finns inte"
 
 [head_back]
-other = "You can head back to <a href=\"{{ . }}\">homepage</a>."
+other = "Klicka här för att komma tillbaka till <a href=\"{{ . }}\">startsidan</a>."
 
 [comments]
 other = "Kommentar"
 
 [send]
-other = "Send"
+other = "Skicka"
 
 [read_more]
 other = "Läs mer"
 
 [name]
-other = "Name"
+other = "Namn"
 
 [email]
-other = "Email"
+other = "Epost"
 
 [message]
-other = "Message" 
+other = "Meddelande" 
 
 [warning]
-other = "Warning"
+other = "Varning"
 
 [info]
 other = "Info"
 
 [update]
-other = "Update"
+other = "Updateringar"
 
 [series_posts]
-other = "Posts in this series"
+other = "Andra artiklar i denna kategori"
