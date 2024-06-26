@@ -8,16 +8,16 @@
   name = "Blog"
   weight = 200
   identifier = "posts"
-  url = "/sv/"
+  url = "/posts/"
 
   [[main]]
   name = "Om"
   weight = 400
   identifier = "about"
-  url = "/sv/om/"
+  url = "/om/"
 
   [[footer]]
   name = "Christian Karlsson"
   weight = 1
   identifier = "about"
-  url = "/sv/om/"
+  url = "/om/"
