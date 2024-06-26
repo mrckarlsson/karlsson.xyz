@@ -5,25 +5,19 @@
   url = "/"
 
   [[main]]
-  name = "Posts"
+  name = "Blog"
   weight = 200
   identifier = "posts"
-  url = "/post/"
+  url = "/sv/"
 
   [[main]]
-  name = "About"
+  name = "Om"
   weight = 400
   identifier = "about"
-  url = "/about/"
-
-  [[main]]
-  name = "Contact"
-  weight = 600
-  identifier = "contact"
-  url = "/contact/"
+  url = "/sv/om/"
 
   [[footer]]
-  name = "Test"
+  name = "Christian Karlsson"
   weight = 1
-  identifier = "imprint"
-  url = "/imprint/"
+  identifier = "about"
+  url = "/sv/om/"
