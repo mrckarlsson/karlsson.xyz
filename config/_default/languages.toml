@@ -2,7 +2,7 @@
 title = "karlsson.xyz"
 weight = 1
 LanguageName = "SV"
-contentDir = "content/sv/artiklar"
+contentDir = "content/sv/artiklar/"
 
 [en]
 title = "karlsson.xyz"
