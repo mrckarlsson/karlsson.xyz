@@ -1,10 +1,4 @@
 {{ $sass := resources.Get "sass/main.scss" }}  
 {{ $style := $sass | resources.ToCSS | resources.Fingerprint }}
-{{- if eq hugo.Environment "development" }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
     <link rel="icon" size="48x48" href="/favicon.ico">
-  {{- else }}
-    {{- with . | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-    {{- end }}
-  {{- end }}
